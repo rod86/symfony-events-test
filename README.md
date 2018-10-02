@@ -103,7 +103,6 @@ Problems I came across
 
 * I don't know how events are related to places and types in the specs, so I supposed that's a many to one association to these 2 tables.
 
-
 ## Improvements
 
 * API error listener: Setup an error exception listener to convert the error data if the request was an api call.
@@ -113,3 +112,5 @@ Problems I came across
 * Move some controller logic to services.
 
 * Improve services architecture.
+
+* write tests for controllers and services.
