@@ -97,7 +97,7 @@ It returns an array that contains events, posts and places grouped by type
 
 Problems I came across
 
-* I am used to symfony 3.2 so I didn't expect major changes in symfony 3.4 like the container.
+* I am used to symfony 3.2 so I didn't expect major changes in symfony 3.4 like the services container.
 
 * I couldn't setup a docker environment and I ended using a vagrant box.
 
